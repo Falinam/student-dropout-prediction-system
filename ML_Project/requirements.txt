@@ -1,0 +1,21 @@
+# Core Machine Learning Libraries
+pandas>=2.0.0
+numpy>=1.24.0
+scikit-learn>=1.3.0
+
+# Explainable AI
+shap>=0.42.0
+
+# Data Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.15.0
+
+# Dashboard
+streamlit>=1.25.0
+
+# Model Persistence
+joblib>=1.3.0
+
+# Optional: For better performance
+numba>=0.57.0
